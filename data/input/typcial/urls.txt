@@ -2,6 +2,7 @@
 # 每行一个URL，以 # 开头的行为注释
 
 # StackOverflow Blog 示例
+
 https://stackoverflow.blog/2025/12/08/the-shift-in-enterprise-ai-what-we-learned-on-the-floor-at-microsoft-ignite/
 https://stackoverflow.blog/2025/12/01/what-s-new-at-stack-overflow-december-2025/
 https://stackoverflow.blog/2025/11/20/community-products-roadmap-update-november-2025/
