@@ -37,12 +37,12 @@
 
 | 智能体 | 功能 | 模型 |
 |--------|------|------|
-| **🔍 分析器智能体** | 深度文本 HTML 结构分析 | Claude/OpenAI |
-| **👁️ 视觉分析器** | 使用视觉模型分析布局 | GPT-4 Vision |
-| **🎯 协调器** | 综合结果并生成 JSON 模式（步骤 3 和 4） | GPT-4 |
-| **💻 代码生成器** | 生成生产就绪的提取代码 | GPT-4 |
-| **✅ 代码验证器** | 验证并改进代码质量 | GPT-4/Claude |
-| **📝 Markdown 转换器** | 将 JSON 结果转换为 Markdown 格式 | GPT-4/Claude |
+| **🔍 分析器智能体** | 深度文本 HTML 结构分析 | Claude Sonnet 4.5 (claude-sonnet-4-5-20250929) |
+| **👁️ 视觉分析器** | 使用视觉模型分析布局 | Qwen-VL-Max (qwen-vl-max) |
+| **🎯 协调器** | 综合结果并生成 JSON 模式（步骤 3 和 4） | GPT-5 (gpt5) |
+| **💻 代码生成器** | 生成生产就绪的提取代码 | Claude Sonnet 4.5 (claude-sonnet-4-5-20250929) |
+| **✅ 代码验证器** | 验证并改进代码质量 | Claude Sonnet 4.5 (claude-sonnet-4-5-20250929) |
+| **📝 Markdown 转换器** | 将 JSON 结果转换为 Markdown 格式 | Claude Sonnet 4.5 (claude-sonnet-4-5-20250929) |
 
 ### 🧠 智能解析
 

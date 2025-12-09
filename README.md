@@ -37,12 +37,12 @@
 
 | Agent | Purpose | Model |
 |-------|---------|-------|
-| **🔍 Analyzer Agent** | Deep text-based HTML structure analysis | Claude/OpenAI |
-| **👁️ Visual Analyzer** | Visual layout analysis using vision models | GPT-4 Vision |
-| **🎯 Orchestrator** | Coordinates agents and synthesizes results | GPT-4 |
-| **💻 Code Generator** | Generates production-ready extraction code | GPT-4 |
-| **✅ Code Validator** | Validates and improves code quality | GPT-4/Claude |
-| **📝 Markdown Converter** | Converts JSON results to Markdown format | GPT-4/Claude |
+| **🔍 Analyzer Agent** | Deep text-based HTML structure analysis | Claude Sonnet 4.5 (claude-sonnet-4-5-20250929) |
+| **👁️ Visual Analyzer** | Visual layout analysis using vision models | Qwen-VL-Max (qwen-vl-max) |
+| **🎯 Orchestrator** | Coordinates agents and synthesizes results | GPT-5 (gpt5) |
+| **💻 Code Generator** | Generates production-ready extraction code | Claude Sonnet 4.5 (claude-sonnet-4-5-20250929) |
+| **✅ Code Validator** | Validates and improves code quality | Claude Sonnet 4.5 (claude-sonnet-4-5-20250929) |
+| **📝 Markdown Converter** | Converts JSON results to Markdown format | Claude Sonnet 4.5 (claude-sonnet-4-5-20250929) |
 
 ### 🧠 Intelligent Parsing
 
