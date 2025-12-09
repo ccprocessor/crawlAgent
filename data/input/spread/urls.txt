@@ -1,0 +1,10 @@
+# URL列表示例
+# 每行一个URL，以 # 开头的行为注释
+
+# StackOverflow Blog 示例
+
+https://stackoverflow.com/questions/4693947/powershell-equivalent-of-pythons-if-name-main
+https://stackoverflow.com/questions/79841613/spatstat-remove-colorbar-legend-from-plot-colourmap
+https://stackoverflow.com/questions/79841659/why-bufreader-read-linemut-buf-reads-all-file-content-into-buf
+https://stackoverflow.com/questions/51428601/upload-file-with-unknown-size-onedrive
+https://stackoverflow.com/questions/1060796/callable-modules

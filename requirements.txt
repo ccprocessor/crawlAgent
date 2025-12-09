@@ -1,0 +1,11 @@
+openai==2.9.0
+anthropic==0.75.0
+lxml==6.0.2
+beautifulsoup4==4.14.3
+pillow==12.0.0
+selenium==4.39.0
+playwright==1.56.0
+python-dotenv==1.2.1
+requests==2.32.5
+colorama==0.4.6
+
