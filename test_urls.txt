@@ -3,7 +3,6 @@ https://stackoverflow.blog/2025/09/12/planning-to-arm-mobile-devices-with-chips-
 https://stackoverflow.blog/2024/11/13/your-docs-are-your-infrastructure/
 https://stackoverflow.blog/2025/10/28/craft-and-quality-beat-speed-and-scale-with-or-without-agents/
 https://stackoverflow.blog/2025/10/02/building-ai-ready-teams-why-documentation-and-culture-matter-more-than-tools/
-https://stackoverflow.com/questions/4693947/powershell-equivalent-of-pythons-if-name-main
 
 https://stackoverflow.blog/2025/12/08/the-shift-in-enterprise-ai-what-we-learned-on-the-floor-at-microsoft-ignite/
 https://stackoverflow.blog/2025/12/01/what-s-new-at-stack-overflow-december-2025/
